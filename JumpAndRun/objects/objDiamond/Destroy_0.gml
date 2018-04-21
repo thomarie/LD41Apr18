@@ -1,1 +1,3 @@
-/// @description Empty
+/// @description
+
+global.diamonds = global.diamonds + 1;
