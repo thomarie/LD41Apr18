@@ -1,8 +1,8 @@
 {
-    "id": "d946b069-3a25-471c-94d1-d5f069121b6b",
+    "id": "3cecb875-a99f-41ee-a870-ab81c08cdd0e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objTransRm2",
+    "name": "objTetris4",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "744fb948-ceb8-412d-8cbf-34ab1826e505",
     "visible": true
 }
