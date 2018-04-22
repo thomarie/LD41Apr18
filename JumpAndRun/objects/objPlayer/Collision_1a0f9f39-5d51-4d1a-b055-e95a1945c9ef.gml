@@ -1,4 +1,4 @@
-/// @description 
+ /// @description go to Leaderboard
 
 
 draw_set_halign(fa_left);

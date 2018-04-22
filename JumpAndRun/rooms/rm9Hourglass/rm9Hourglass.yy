@@ -1,6 +1,6 @@
 
 {
-    "name": "rmHourglass",
+    "name": "rm9Hourglass",
     "id": "64e533af-7e40-478d-992b-f5662f7fb7b0",
     "creationCodeFile": "",
     "inheritCode": false,
