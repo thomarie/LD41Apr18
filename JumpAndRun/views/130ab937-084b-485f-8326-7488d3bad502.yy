@@ -10,7 +10,8 @@
         "744fb948-ceb8-412d-8cbf-34ab1826e505",
         "c08b68e5-7f68-4ae0-8dd0-8e0647561139",
         "d34d8608-ad78-4e31-95ae-786f7bc0a20b",
-        "2f4f6669-1bdc-4a60-a360-282201dffca0"
+        "2f4f6669-1bdc-4a60-a360-282201dffca0",
+        "07b4f7d1-9b0a-4d7c-a4cf-ea7ef6790151"
     ],
     "filterType": "GMSprite",
     "folderName": "sprGrpTetris",

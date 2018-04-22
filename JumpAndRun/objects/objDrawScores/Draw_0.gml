@@ -1,4 +1,4 @@
-/// @description 
+ /// @description 
 
 //placement of the scores array
 xx = room_width/2 -  150;
