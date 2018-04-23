@@ -1,10 +1,5 @@
  /// @description Get Time & Name for Leaderboard
 
-if global.diamonds == 6 
-{
-	//room_goto_next()
-//}
-
 
 // this check the score (time) and compares it to what is already in the leaderboard and then bumps the other times up or dowen if needed
 
@@ -71,7 +66,7 @@ if i_d == name
 		game_end();
 	}
 }
-}		
+      	
 			
 			
 			
